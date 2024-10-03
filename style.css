@@ -4,7 +4,9 @@ body{
     font-style: italic;
     color: azure;
 }
-
+main {
+    padding: 1rem; 
+}
 table {
     width: 80%;
     margin:auto;
